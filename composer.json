@@ -14,8 +14,8 @@
         "php": ">=5.2"
     },
     "autoload": {
-        "psr-0": {
-            "HttpLib": "src"
+        "psr-4": {
+            "HttpLib\\": "src"
         }
     }
 }
