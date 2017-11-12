@@ -1,0 +1,14 @@
+{
+    "name": "fps2tao/httplib",
+    "description": "A http request",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "fps2tao",
+            "email": "569811586@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
