@@ -1,7 +1,7 @@
 {
     "name": "fps2tao/httplib",
     "description": "A http request",
-    "type": "project",
+    "type": "library",
     "license": "mit",
     "authors": [
         {
